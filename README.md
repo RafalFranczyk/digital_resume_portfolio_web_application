@@ -10,7 +10,13 @@ Web application allows user to interact with server via browswer on desktop and 
 
 ## Build with.
 
-* Angular 6
-* HTML5
-* CSS3
-* Typescript
+* **Angular 6** 
+* **HTML5**
+* **CSS3**
+* **Typescript**
+
+## Authors
+
+* **Sebastian Zając** - [SebastianZajac](https://github.com/SebastianZajac)
+* **Rafał Wróbel** - [Rebellious83](https://github.com/Rebellious83)
+* **Natalia Kocoł** - [kooocol](https://github.com/kooocol)
